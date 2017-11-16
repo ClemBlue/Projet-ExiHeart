@@ -1,4 +1,4 @@
- void lol()
+ void chenille2_2()
       {
         int i;
      for(i = 0; i<10; i++)
